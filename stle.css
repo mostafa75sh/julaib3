@@ -28,7 +28,7 @@ body {
 header {
 
     height: 100vh;
-    background: url(photo/WhatsApp\ Image\ 2024-12-18\ at\ 2.04.35\ PM.jpeg) center center/cover no-repeat;
+    background: url(PM.jpeg) center center/cover no-repeat;
 }
 #navbar {
     display: flex;
